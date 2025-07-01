@@ -275,6 +275,8 @@ if (FILAMENT_SUPPORTS_WEBGPU)
             src/webgpu/WebGPUIndexBuffer.h
             src/webgpu/WebGPUMsaaTextureResolver.cpp
             src/webgpu/WebGPUMsaaTextureResolver.h
+            src/webgpu/WebGPUPipelineCache.cpp
+            src/webgpu/WebGPUPipelineCache.h
             src/webgpu/WebGPUPipelineCreation.cpp
             src/webgpu/WebGPUPipelineCreation.h
             src/webgpu/WebGPUProgram.cpp
